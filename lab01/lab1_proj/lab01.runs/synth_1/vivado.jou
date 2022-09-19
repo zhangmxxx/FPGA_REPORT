@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sun Sep 18 11:12:20 2022
+# Process ID: 5320
+# Current directory: G:/lab01/lab01.runs/synth_1
+# Command line: vivado.exe -log lab01.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source lab01.tcl
+# Log file: G:/lab01/lab01.runs/synth_1/lab01.vds
+# Journal file: G:/lab01/lab01.runs/synth_1\vivado.jou
+# Running On: SimenonsLaptop, OS: Windows, CPU Frequency: 3110 MHz, CPU Physical cores: 12, Host memory: 16890 MB
+#-----------------------------------------------------------
+source lab01.tcl -notrace
